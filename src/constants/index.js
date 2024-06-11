@@ -53,6 +53,14 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind", "Framer"],
   },
+   {
+    title: "Weather App",
+    image: project4,
+    description:
+      "An application to get hourly weather forecasts for the coming week using Openweather API.",
+    technologies: ["HTML", "CSS", "Nextjs", "Tailwind", "Typescript"],
+  },
+  
   // {
   //   title: "Blogging Platform",
   //   image: project4,
