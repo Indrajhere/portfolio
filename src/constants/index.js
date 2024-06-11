@@ -17,7 +17,7 @@ export const EXPERIENCES = [
     role: "Advanced Analyst",
     company: "EY GDS",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Flask APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["Javascript", "Typescript", "React.js", "Next.js", "Flask"],
+    technologies: ["Javascript", "Typescript", "Reactjs", "Nextjs", "Flask"],
   },
   {
     year: "01/2022 - 07/2022",
@@ -37,7 +37,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["HTML", "CSS", "React", "Nodejs", "MongoDB"],
   },
   {
     title: "Task Management App",
