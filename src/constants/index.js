@@ -17,7 +17,7 @@ export const EXPERIENCES = [
     role: "Advanced Analyst",
     company: "EY GDS",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Flask APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["Javascript", "React.js", "Next.js", "Flask"],
+    technologies: ["Javascript", "Typescript", "React.js", "Next.js", "Flask"],
   },
   {
     year: "01/2022 - 07/2022",
