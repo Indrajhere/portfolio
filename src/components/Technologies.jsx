@@ -6,6 +6,8 @@ import { SiTailwindcss } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
 import { SiTypescript } from "react-icons/si";
 import { motion } from "framer-motion";
+import { FaGithub } from "react-icons/fa";
+
 
 const iconVariants = (duration) => ({
   initial: { y : -10 },
@@ -58,6 +60,13 @@ const Technologies = () => {
          animate="animate" 
          className="rounded-2xl border-4 border-neutral-800 p-4">
           <SiTypescript className="text-7xl text-blue-400" />
+        </motion.div>
+        <motion.div 
+         variants={iconVariants(8)}
+         initial="initial"
+         animate="animate" 
+         className="rounded-2xl border-4 border-neutral-800 p-4">
+          <FaGithub className="text-7xl text-white" />
         </motion.div>
         {/* <div className="rounded-2xl border-4 border-neutral-800 p-4">
             <FaNodeJs className="text-7xl text-green-500"/>
