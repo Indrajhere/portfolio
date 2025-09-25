@@ -12,19 +12,20 @@ Hi there! 👋 I'm Indrajbir Singh, a frontend developer specializing in React a
 As a seasoned developer, I've honed my skills in crafting clean and maintainable codebases, leveraging the power of TypeScript to catch errors early and ensure robustness. I'm also a big advocate for Tailwind CSS, utilizing its utility-first approach to design responsive and visually stunning interfaces.`
 
 export const EXPERIENCES = [
-  {
+    {
     year: "07/2022 - Present",
-    role: "Advanced Analyst",
+    role: "Frontend Software Engineer",
     company: "EY GDS",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Flask APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["Javascript", "Typescript", "Reactjs", "Nextjs", "Flask"],
+    description: `Delivered a large-scale GenAI application adopted across 6+ countries. Implemented SSE-based chat streaming, file uploads via WebSockets, and optimized Next.js performance to reduce re-renders by 50%. Automated knowledge extraction from client documents, enhancing efficiency by 30%, and ensured security using Content Security Policy (CSP).`,
+    technologies: [ "Typescript", "Reactjs", "Nextjs", "Tailwind CSS"],
   },
+ 
   {
     year: "01/2022 - 07/2022",
     role: "Intern",
     company: "EY GDS",
-    description: `Developed Power Apps & Power Automate solutions for users handling Clients Data. Also, built User Interfaces using tkinter-python.`,
-    technologies: ["PowerAutomate", "PowerApps" , "Python"],
+    description: `Built a React.js + Material-UI contract management interface for streamlined handling of contracts and questionnaires. Integrated OpenAI API for AI-driven contract analysis, cutting review time from hours to minutes. Developed an AI chat assistant for an e-commerce retailer, reducing customer search time by 30%. Collaborated with global teams on version control and workflows using Git & Azure DevOps.`
+    technologies: ["Reactjs", "Material-UI" , "Formik", "Typescript"],
   },
 ]
 
@@ -32,13 +33,7 @@ export const EXPERIENCES = [
 
 
 export const PROJECTS = [
-  {
-    title: "E-Commerce Website",
-    image: project1,
-    description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Nodejs", "MongoDB"],
-  },
+ 
   {
     title: "Task Management App",
     image: project2,
@@ -71,7 +66,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Sector 22B, Gurgaon, India ",
+  address: "Gurgaon, India ",
   phoneNo: "+91 981597XXXXX",
   email: "indrajbir@gmail.com",
 };
