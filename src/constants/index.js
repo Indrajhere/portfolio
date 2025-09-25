@@ -24,7 +24,7 @@ export const EXPERIENCES = [
     year: "01/2022 - 07/2022",
     role: "Intern",
     company: "EY GDS",
-    description: `Built a React.js + Material-UI contract management interface for streamlined handling of contracts and questionnaires. Integrated OpenAI API for AI-driven contract analysis, cutting review time from hours to minutes. Developed an AI chat assistant for an e-commerce retailer, reducing customer search time by 30%. Collaborated with global teams on version control and workflows using Git & Azure DevOps.`
+    description: `Built a React.js + Material-UI contract management interface for streamlined handling of contracts and questionnaires. Integrated OpenAI API for AI-driven contract analysis, cutting review time from hours to minutes. Developed an AI chat assistant for an e-commerce retailer, reducing customer search time by 30%. Collaborated with global teams on version control and workflows using Git & Azure DevOps.`,
     technologies: ["Reactjs", "Material-UI" , "Formik", "Typescript"],
   },
 ]
