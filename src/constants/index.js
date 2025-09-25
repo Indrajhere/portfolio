@@ -14,7 +14,7 @@ As a seasoned developer, I've honed my skills in crafting clean and maintainable
 export const EXPERIENCES = [
     {
     year: "07/2022 - Present",
-    role: "Frontend Software Engineer",
+    role: "Frontend Software Developer",
     company: "EY GDS",
     description: `Delivered a large-scale GenAI application adopted across 6+ countries. Implemented SSE-based chat streaming, file uploads via WebSockets, and optimized Next.js performance to reduce re-renders by 50%. Automated knowledge extraction from client documents, enhancing efficiency by 30%, and ensured security using Content Security Policy (CSP).`,
     technologies: [ "Typescript", "Reactjs", "Nextjs", "Tailwind CSS"],
